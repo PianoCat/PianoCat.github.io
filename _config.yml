@@ -9,14 +9,14 @@ markdown: redcarpet
 
 excerpt_separator: <!-- more -->
 
-title : 进击的xp!
+title : 每天进步一点点~
 tagline: OpenCV OpenCL 
 author : 
   name : 弹钢琴的猫
   email : zyzybs@gmail.com
   github : https://github.com/pianocat
   weibo : http://www.weibo.com/1622930830/profile
-  linkedin : http://cn.linkedin.com/pub/peng-xiao/40/92a/636
+#  linkedin : http://cn.linkedin.com/pub/peng-xiao/40/92a/636
   qq : 1046806154
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
