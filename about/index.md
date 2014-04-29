@@ -11,10 +11,15 @@ pagetitle: 每天都有新收获。
 
 #Contact Me
 
-腾讯QQ: 1046806154
+-腾讯QQ: 1046806154
 
-微博: http://weibo.com/u/1622930830
+-邮箱: zyzybs@qq.com/  OR  zyzybs@gmail.com
 
-github: https://github.com/PianoCat
+-[微博][1]
+
+-[github][2]
 
 
+[1] http://weibo.com/u/1622930830
+
+[2] https://github.com/PianoCat
