@@ -1,6 +1,6 @@
 ---
 title: 弹钢琴的猫
-pagetitle: 空谷幽兰
+pagetitle: Blog
 layout: page
 ---
 
