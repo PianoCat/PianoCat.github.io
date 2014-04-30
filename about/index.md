@@ -11,13 +11,13 @@ hi, there! I'm a postgratitude from XiaMen University, majoring in Computer Scie
 
 #Contact Me
 
-- 腾讯QQ: 1046806154
+- Tencent QQ: 1046806154
 
-- 邮箱: zyzybs@qq.com/  OR  zyzybs@gmail.com
+- E-mail: zyzybs@qq.com
 
-- [微博][1]
+- [Weibo][1]
 
-- [github][2]
+- [GitHub][2]
 
 
 [1]: http://weibo.com/u/1622930830
