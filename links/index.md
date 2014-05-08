@@ -1,5 +1,5 @@
 ---
-title: links
+title: Links
 layout: page
 pagetitle: 经常去的地方
 comments: yes

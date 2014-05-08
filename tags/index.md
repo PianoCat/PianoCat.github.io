@@ -1,5 +1,5 @@
 ---
-title: tags
+title: Tags
 pagetitle: more than a story
 layout: page
 ---
