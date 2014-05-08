@@ -2,7 +2,7 @@
 layout: post
 title: 考研回忆录
 category: 生活
-tags: [大学， 心情]
+tags: [心情]
 ---
 
 时间：2013年7月 —— 2014年1月5日。
