@@ -1,6 +1,6 @@
 ---
-title: 弹钢琴的猫
-pagetitle: Blog
+title: Arriving at one goal is the starting point to another.
+pagetitle: 張げん
 layout: page
 ---
 
