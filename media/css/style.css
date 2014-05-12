@@ -83,3 +83,29 @@ embed,object,iframe{display:block;margin:4px auto;}
     text-align: center;
     color: #fff;
 }
+
+.post .douban{
+
+}
+.post .douban li {
+	list-style:none outside none;
+	float:left;
+	width:80px;
+    padding: 0;
+}
+.post .douban li img{
+	width: 70px;
+    height: 100px;
+}
+
+.douban-list ul li {
+	width: 80px;
+	float: left;
+	list-style: none outside none;
+}
+
+.douban-list ul li img {
+	width: 70px;
+	height: 100px;
+	border: solid 1px #DDD;
+}
