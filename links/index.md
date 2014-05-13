@@ -12,8 +12,8 @@ comments: yes
 
 ### 关联
 
-- [厦大信科院][2]
-- [纪荣嵘][3] 我的导师
+- [厦大信科院] [2]
+- [纪荣嵘] [3]  我的导师
 
 
 [1]: http://v.163.com/special/opencourse/machinelearning.html

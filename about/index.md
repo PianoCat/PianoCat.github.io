@@ -15,14 +15,18 @@ hi, there! I'm a postgratitude at XiaMen University, majoring in Computer Scienc
 
 - [Weibo][2]
 
+- [douban] [3]
+
 - E-mail: zyzybs@qq.com
 
-- [Tencent][3] QQ: 1046806154
+- [Tencent][4] QQ: 1046806154
 
 
 [1]: https://github.com/PianoCat
 
 [2]: http://weibo.com/u/1622930830
 
-[3]: http://t.qq.com/zybs_1
+[3]: http://www.douban.com/people/57066215/
+
+[4]: http://t.qq.com/zybs_1
 
