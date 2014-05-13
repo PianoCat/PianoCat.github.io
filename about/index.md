@@ -5,11 +5,11 @@ comments: yes
 pagetitle: 每天都有新收获。
 ---
 
-#Self Introduction
+### Self Introduction
 
 hi, there! I'm a postgratitude at XiaMen University, majoring in Computer Science. And my research interest concerns Computer Vision, Image processing, Linux, Java etc. I also be a fan of FC Barcelona, and football makes me crazy. We are gonna be friends if we have something in common.
 
-#Contact Me
+### Contact Me
 
 - [GitHub][1]
 
