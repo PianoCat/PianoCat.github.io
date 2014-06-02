@@ -55,8 +55,12 @@ tags: [心情]
 
 可是从大四开始，我走路变得很慢，我发现，自己的本科学校原来是如此的美丽，真的好希望时间慢慢地走，能多一分感受母校的美。清晨骑着单车奔入校园，树上鸟儿啼鸣，阳光温暖，微风拂面。路上行人纷纷，美到极致。在这么美好的环境复习，绝对是一种享受。
 
-感谢母校的美丽，在这么一所环境优美的学校读书，真的很荣幸！
+感谢母校的美丽，在这么一所环境优美的学校读书，真的很荣幸！（附师大雨后美图一张）
+
+<img src="https://github.com/PianoCat/PianoCat.github.io/tree/master/media/photo/FJNU_after_rain.jpg" title="雨后的师大" />
 
 ----
 
-考研这半年，有太多的话想说，今晚边想边写，时间仓促，就写到这里。半年美好的回忆，暖暖的。
+考研这半年，有太多的话想说，今晚边想边写，时间仓促，就写到这里，下面附上陪伴自己半年的爱车美照π_π。半年美好的回忆，暖暖的。
+
+<img src="https://github.com/PianoCat/PianoCat.github.io/tree/master/media/photo/bike.jpg" title="爱车" />
