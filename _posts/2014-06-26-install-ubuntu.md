@@ -1,4 +1,9 @@
-## 安装Ubuntu前后 ##
+---
+layout: post
+title: 安装Ubuntu以及之后要做的一些事情
+category: Linux
+tags: [Ubuntu]
+---
 
 #### 1.关于安装 ####
 
