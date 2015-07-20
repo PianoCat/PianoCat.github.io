@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ÓĞ¹ØgitÅäÖÃ
-category: ÆäËû¼¼Êõ
+title: æœ‰å…³gité…ç½®
+category: å…¶ä»–æŠ€æœ¯
 tags: [git]
 ---
 
-×Ô¼ºµÄĞ¡ºÚ±¾±¾¹ÒÁË...¿ªÊ¼ÓÃÊµÑéÊÒµÄµçÄÔ¸É»î¡£ÏëÆğÀ´ÒªÌá½»±¸·İÒ»ÏÂ×î½üµÄ´úÂë£¬ÕâÀï°ÑgitµÄÅäÖÃ¹ı³Ì¼ÇÂ¼ÏÂÀ´£¬·½±ãÒÔºó²é¿´¡£
+è‡ªå·±çš„å°é»‘æœ¬æœ¬æŒ‚äº†...å¼€å§‹ç”¨å®éªŒå®¤çš„ç”µè„‘å¹²æ´»ã€‚æƒ³èµ·æ¥è¦æäº¤å¤‡ä»½ä¸€ä¸‹æœ€è¿‘çš„ä»£ç ï¼Œè¿™é‡ŒæŠŠgitçš„é…ç½®è¿‡ç¨‹è®°å½•ä¸‹æ¥ï¼Œæ–¹ä¾¿ä»¥åæŸ¥çœ‹ã€‚
 
 1. Install the git client downloaded from [here](http://git-scm.com/download/) ;
 2. Right click the "Git Bash" from startup menu, click property, flag the "quick edit";
@@ -14,4 +14,4 @@ tags: [git]
 5. echo `ssh -T git@github.com` to verify the id;
 6. echo `git config --global user.name "username"` and `git config --global user.email "email"`;
 
-µ½´Ë£¬gitÅäÖÃ¾ÍoverÁË¡£Ïñ`git add .`, `git commit -a -m 'xxxxx'`, `git push -u origin master`ÕâÑùµÄÃüÁî¿É²»Ó¦¸ÃÍüµô~¡£
+åˆ°æ­¤ï¼Œgité…ç½®å°±overäº†ã€‚åƒ`git add .`, `git commit -a -m 'xxxxx'`, `git push -u origin master`è¿™æ ·çš„å‘½ä»¤å¯ä¸åº”è¯¥å¿˜æ‰~ã€‚
