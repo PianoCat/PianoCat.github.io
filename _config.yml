@@ -1,8 +1,6 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://PianoCat.github.io
 author: 弹钢琴的猫
 pygments: true
 production_url : http://PianoCat.github.io
-
-
