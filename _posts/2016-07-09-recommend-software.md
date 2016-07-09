@@ -6,6 +6,7 @@ tags: [软件]
 ---
 
 ----
+
 # PC端
 
 * **Atom**：一款特别好用+炫酷的跨平台编辑器。插件*Markdown Preview Plus*用来编辑MD文件和LaTeX文件, Shift + Ctrl + X分屏显示LaTeX实时效果，Shift + Ctrl + M实时显示MD文件生成效果；插件*LaTeX Plus*用来编辑LaTex文件；插件*Activate power mode*使得打字的时候特别炫酷，要是配上一款机械键盘就更带劲了。
@@ -21,6 +22,7 @@ tags: [软件]
 * **AVS Video Editor**：不错的视频编辑软件。
 
 ----
+
 # IOS端
 
 * **好奇心日报**：干货推送，感觉比今日头条好很多。
