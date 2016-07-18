@@ -1,3 +1,4 @@
+---
 layout: post
 title: leetcode-80 Remove Duplicates from Sorted Array II
 category: 算法
