@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Remove Duplicates from Sorted Array
+title: leetcode-26 Remove Duplicates from Sorted Array
 category: 算法
 tags: [leetcode]
 ---
 
-### leetcode 26 Remove Duplicates from Sorted Array ###
+### leetcode-26 Remove Duplicates from Sorted Array ###
 
 * 题目描述
 
