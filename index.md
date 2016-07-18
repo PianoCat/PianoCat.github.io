@@ -1,5 +1,5 @@
 ---
-title: Arriving at one goal is the starting point to another.
+title: 你必须非常努力，才能看起来毫不费力。
 pagetitle: 張げん
 layout: page
 ---
@@ -17,4 +17,3 @@ layout: page
   </li>
 {% endfor %}
 </ul>
-
