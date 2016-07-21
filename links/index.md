@@ -8,14 +8,18 @@ comments: yes
 ### 学习网站
 
 - [机器学习课程][1]
+- [Leetcode OJ][4]
+- [牛客网][5]
 
 
 ### 关联
 
-- [厦大信科院] [2]
-- [纪荣嵘] [3]  我的导师
+- [厦门大学信息科学与技术学院] [2]
+- 我的导师： [纪荣嵘] [3]  
 
 
 [1]: http://v.163.com/special/opencourse/machinelearning.html
 [2]: http://information.xmu.edu.cn/portal/
 [3]: http://imt.xmu.edu.cn/rrji-cn.html
+[4]: https://leetcode.com/progress/
+[5]: http://www.nowcoder.com/profile/771782
