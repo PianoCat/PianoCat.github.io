@@ -5,6 +5,10 @@ category: 编程语言
 tags: [Java]
 ---
 
+![exception](https://raw.githubusercontent.com/PianoCat/Blog_imgs/master/images_2016/java_exception.jpg)
+
+---
+
 在Java的异常体系中，`Throwable `类是所有错误或异常的超类，`Error`和`Exception`两个类是他的子类。
 
 `Error`类是应用程序一般不会出现的问题，通常由JVM自己处理。这个类又包含了`VirtulMachineError`和`AWTError`，`VirtulMachineError`类包括`StackOverFlowError`和`OutOfMemoryError`两个类。
