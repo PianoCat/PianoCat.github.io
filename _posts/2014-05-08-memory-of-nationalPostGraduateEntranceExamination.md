@@ -57,14 +57,10 @@ tags: [心情]
 
 感谢母校的美丽，在这么一所环境优美的学校读书，真的很荣幸！（附师大雨后美图一张）
 
-<img src="https://github.com/PianoCat/PianoCat.github.io/blob/master/media/photo/FJNU_after_rain.jpg" title="雨后的师大" />
+<img src="https://raw.githubusercontent.com/PianoCat/PianoCat.github.io/master/media/photo/FJNU_after_rain.jpg" title="雨后的师大" />
 
 ----
 
 考研这半年，有太多的话想说，今晚边想边写，时间仓促，就写到这里，下面附上陪伴自己半年的爱车美照π_π。半年美好的回忆，暖暖的。
 
-<img src="https://github.com/PianoCat/PianoCat.github.io/blob/master/media/photo/bike.jpg" title="爱车" />
-
-----
-
-![image](https://github.com/PianoCat/PianoCat.github.io/blob/master/media/photo/bike.jpg)
+![image](https://raw.githubusercontent.com/PianoCat/PianoCat.github.io/master/media/photo/bike.jpg)
