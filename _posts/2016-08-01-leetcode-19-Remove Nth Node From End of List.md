@@ -19,7 +19,7 @@ Given linked list: 1->2->3->4->5, and n = 2.
 After removing the second node from the end, the linked list becomes 1->2->3->5.
 ```
 
-* C++解法一
+* C++解法
 
 这道题目用快慢指针法来求解，即一个指针指向链表头部，第二个指针指向距离头部n个位置的节点，两个指针一起向后移动。当第二个指针移动到链表尾部的时候，第一个指针刚好是倒数第n个节点的前一个指针。代码如下所示，用时4ms：
 

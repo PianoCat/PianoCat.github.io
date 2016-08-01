@@ -15,7 +15,7 @@ For example, given the array `[−2,1,−3,4,−1,2,1,−5,4]`,
 
 the contiguous subarray`[4,−1,2,1]` has the largest sum = `6`.
 
-* C++解法一
+* C++解法
 
 求数组的最大子序列，这是一道很经典的动态规划题目，这里就不再介绍暴力求解`O(n^2)`和分治算法`O(nlogn)`了。下面的代码是比较简练的一种代码，很简单，能很快看懂，时间复杂度为`O(n)`，代码耗时`12ms`。
 
