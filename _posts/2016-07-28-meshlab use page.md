@@ -43,6 +43,8 @@ tags: [3D Reconstruction]
 
 #### 单击Freeze Current Matrix，最后再点击保存。
 
+---
+
 ## 生成纹理模型的方法 ##
 
 #### 1. 用Visual sfm导入cmp.nvm（稀疏点云），点击CMVS稠密化，在指定的生成目录中找到bundle.rd.out（稀疏点云+相机参数），用meshlab打开，导入list.txt。
@@ -60,6 +62,8 @@ tags: [3D Reconstruction]
 #### Texture size 可以自己设置，用来保存纹理的精细程度。然后依次Apply-->Close。
 
 #### 5. 最后记得Freeze Current Matrix，再保存关闭。这样，模型的纹理图片就生成了。
+
+---
 
 ## 调整模型到世界坐标系原点的方法 ##
 
