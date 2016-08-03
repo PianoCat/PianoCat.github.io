@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-53 Maximum Subarray
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Array, Dynamic Programming, Divide and Conquer]
 ---
 
 ### leetcode-53 Maximum Subarray ###

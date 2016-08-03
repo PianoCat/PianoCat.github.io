@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-19 Remove Nth Node From End of List
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Linked List, Two Pointers]
 ---
 
 ### leetcode-19 Remove Nth Node From End of List ###

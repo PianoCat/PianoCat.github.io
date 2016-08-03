@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-33 Search in Rotated Sorted Array
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Binary Search, Array]
 ---
 
 ### leetcode-33 Search in Rotated Sorted Array ###

@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-237 Delete Node in a Linked List
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Linked List]
 ---
 
 ### leetcode-237 Delete Node in a Linked List ###

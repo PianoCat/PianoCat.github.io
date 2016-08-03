@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-1 Two Sum
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Array, Hash Table]
 ---
 
 ### leetcode-1 Two Sum ###

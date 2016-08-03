@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-258 Add Digits
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Math]
 ---
 
 ### leetcode-258 Add Digits ###

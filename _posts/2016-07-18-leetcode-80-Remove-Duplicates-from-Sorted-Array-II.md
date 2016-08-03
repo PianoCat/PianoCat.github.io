@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-80 Remove Duplicates from Sorted Array II
 category: 算法
-tags: [leetcode]
+tags: [leetcode, Array, Two Pointers]
 ---
 
 ### leetcode-80 Remove Duplicates from Sorted Array II ###
