@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-110 Balanced Binary Tree
 category: 算法
-tags: [leetcode, Tree, Depth-first Search]
+tags: [leetcode, Tree, Depth-first Search, 剑指offer]
 ---
 
 ### leetcode-110 Balanced Binary Tree ###

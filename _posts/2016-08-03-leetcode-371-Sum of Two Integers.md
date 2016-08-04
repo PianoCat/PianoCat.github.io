@@ -2,7 +2,7 @@
 layout: post
 title: leetcode-371 Sum of Two Integers
 category: 算法
-tags: [leetcode, Bit Manipulation]
+tags: [leetcode, Bit Manipulation, 剑指offer]
 ---
 
 ### leetcode-371 Sum of Two Integers ###
