@@ -7,7 +7,7 @@ pagetitle: 每天都有新收获。
 
 ### Self Introduction
 
-hi, there! I'm a postgratitude at XiaMen University, majoring in Computer Science. And my research interest concerns Computer Vision, Image processing, Linux, Java etc. I also be a fan of FC Barcelona, and football makes me crazy. We are gonna be friends if we have something in common.
+hi, there! I'm a postgratuate at XiaMen University, majoring in Computer Science. And my research interest concerns Computer Vision, Augmented Reality, Machine Learning, Linux etc. I also be a fan of FC Barcelona, and football makes me crazy. We are gonna be friends if we have something in common.
 
 ### Contact Me
 
@@ -17,7 +17,7 @@ hi, there! I'm a postgratitude at XiaMen University, majoring in Computer Scienc
 
 - [douban] [3]
 
-- E-mail: zyzybs@qq.com
+- E-mail: zyzybs@gmail.com
 
 - [Tencent][4] QQ: 1046806154
 
@@ -29,4 +29,3 @@ hi, there! I'm a postgratitude at XiaMen University, majoring in Computer Scienc
 [3]: http://www.douban.com/people/57066215/
 
 [4]: http://t.qq.com/zybs_1
-
