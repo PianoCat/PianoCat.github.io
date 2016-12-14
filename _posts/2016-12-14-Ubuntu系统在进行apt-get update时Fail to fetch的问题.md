@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ORB-SLAM2在Ubuntu下运行过程总结
-category: SLAM
-tags: [SLAM, computer vision, 增强现实, 立体视觉, ROS]
+title: Ubuntu系统在进行apt-get update时Fail to fetch的问题
+category: Linux
+tags: [Linux, Ubuntu]
 comments: yes
 
 ---
