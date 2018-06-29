@@ -7,7 +7,7 @@ pagetitle: 每天都有新收获。
 
 ### Self Introduction
 
-hi, there! I'm a postgratuate at XiaMen University, majoring in Computer Science. And my research interest concerns Computer Vision, Augmented Reality, Machine Learning, Linux etc. I also be a fan of FC Barcelona, and football makes me crazy. We are gonna be friends if we have something in common.
+hi, there! I'm a PM at PHfund. I also be a fan of FC Barcelona, and football makes me crazy. We are gonna be friends if we have something in common.
 
 ### Contact Me
 
