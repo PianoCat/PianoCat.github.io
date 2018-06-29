@@ -11,11 +11,11 @@ hi, there! I'm a PM at PHfund. I also be a fan of FC Barcelona, and football mak
 
 ### Contact Me
 
-- [GitHub][1]
+-[GitHub][1]
 
-- [Weibo][2]
+-[Weibo][2]
 
-- [douban] [3]
+-[douban] [3]
 
 - E-mail: zyzybs@gmail.com
 
