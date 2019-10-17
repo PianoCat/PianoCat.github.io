@@ -19,7 +19,7 @@ hi, there! I'm a PM at PHfund. I also be a fan of FC Barcelona, and football mak
 
 - E-mail: zyzybs@gmail.com
 
-- [Tencent][4] QQ: 1046806154
+- Wechat: zyzybs
 
 
 [1]: https://github.com/PianoCat
@@ -27,5 +27,3 @@ hi, there! I'm a PM at PHfund. I also be a fan of FC Barcelona, and football mak
 [2]: http://weibo.com/u/1622930830
 
 [3]: http://www.douban.com/people/57066215/
-
-[4]: http://t.qq.com/zybs_1
